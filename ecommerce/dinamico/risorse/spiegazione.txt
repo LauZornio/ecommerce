@@ -1,0 +1,7 @@
+è la riproduzione di un progetto in un server, quindi:
+
+ - dentro "public" c'è il mio progetto con in aggiunta la cartella "admin"
+ - dentro "risorse" ho la cartella
+    -"templates" dove imposto le cartelle per i template delle interfacce back e front end
+    - file "config.php" dove stabilisco i percorsi dei file
+
